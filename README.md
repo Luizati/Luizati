@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maria Luiza Ferraz
 
-**`Desenvolvedora FullStack`** / **` Estudante de Engenharia de Software`**
+**`Desenvolvedora FullStack`** / **` Estudante de Sistemas de Informação`**
 
 Me chamo Maria Luiza Ferraz , tenho 20 anos e sou natural de Pernambuco. Curso Bacharelado em Sistemas de Informação na UFRPE.  Sou apaixonada por tecnologia e inovação. 
 
